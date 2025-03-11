@@ -5,7 +5,7 @@
 Me chamo Matheus Almeida, tenho 25 anos e sou natural de São Paulo. Atualmente curso Ciências da Computação na Faculdade FMU. Sou apaixonado por tecnologia e busco oportunidades de estágio na área de Desenvolvimento.
 
 <p align ="left">
-    <a href=" https://github.com/MatheusDev16?tab=repositories">
+    <a href= "https://github.com/MatheusDev16?tab=repositories">
         <img 
             title="Repositórios" 
             src=https://custom-icon-badges.demolab.com/badge/-Meus%20Repositórios-green?style=for-the-badge&logoColor=white&logo=repo
