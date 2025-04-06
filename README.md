@@ -74,13 +74,37 @@
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
   />
   
- <img 
+<img 
      align="left" 
      alt="Spring" 
      title="Spring"
-     width = "35px"
+     width="30px" 
      style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+ />
+ <img 
+     align="left" 
+     alt="VSCode"
+     title="VSCode" 
+     width="30px" 
+     style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+ />
+ <img 
+     align="left" 
+     alt="Bootstrap"
+     title="Bootstrap" 
+     width="30px" 
+     style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+ />
+ <img 
+     align="left" 
+     alt="MySQL" 
+     title="MySQL"
+     width="30px" 
+     style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
  />
  <img 
      align="left" 
