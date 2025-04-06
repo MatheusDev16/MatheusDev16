@@ -50,6 +50,15 @@ Me chamo Matheus Almeida, tenho 25 anos e sou natural de São Paulo. Atualmente 
 />
 <img 
     align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+/>
+
+<img 
+    align="left" 
     alt="Java"
     title="Java" 
     width="35px" 
@@ -57,6 +66,15 @@ Me chamo Matheus Almeida, tenho 25 anos e sou natural de São Paulo. Atualmente 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
  />
 
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
+ />
+ 
 <img 
     align="left" 
     alt="Spring" 
@@ -97,15 +115,6 @@ Me chamo Matheus Almeida, tenho 25 anos e sou natural de São Paulo. Atualmente 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-
 
 <br/>
 <br/>
