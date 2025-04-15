@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Almeida
  
- **`Desenvolvedor FullStack`**
+ **`Desenvolvedor Back-end`**
  
  Me chamo Matheus Almeida, tenho 25 anos e sou natural de São Paulo. Atualmente curso Ciências da Computação na Faculdade FMU. Sou apaixonado por tecnologia e busco oportunidades de estágio na área de Desenvolvimento.
  
